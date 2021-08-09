@@ -1,4 +1,4 @@
-# SAMPLE COMPANY DATABASE (Creating Tables)
+-- SAMPLE COMPANY DATABASE (Creating Tables)
 
 CREATE TABLE employee (
     emp_id INT PRIMARY KEY,
