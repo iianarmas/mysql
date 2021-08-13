@@ -1,9 +1,9 @@
 import mysql.connector
 
 db = mysql.connector.connect(
-    host='iiandemo.mysql.database.azure.com',
-    user='myadmin@iiandemo',
-    passwd='hackme26!',
+    host='localhost',
+    user='root',
+    passwd='root!',
     database='pydemo'
 )
 
