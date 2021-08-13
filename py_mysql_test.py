@@ -10,5 +10,3 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 
 # cursor.execute('CREATE DATABASE pydemo')
-
-
